@@ -10,7 +10,13 @@
         "forceConsistentCasingInFileNames": true,
         "baseUrl": "./src",
         "paths": {
-            "*": ["*", "*.ts", "*.tsx", "*.js", "*.jsx"]
+            "*": [
+                "*",
+                "*.ts",
+                "*.tsx",
+                "*.js",
+                "*.jsx"
+            ]
         }
     },
 }
