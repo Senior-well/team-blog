@@ -5,5 +5,5 @@
 cd team-schedule-management
 ```
 ```bash
-npm start
+npm run dev
 ```
